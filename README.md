@@ -1,6 +1,6 @@
 ### 👋 Hi, I’m Vince Enebuse
 - 👀 I’m a Cloud/DevOps Engineer
-- 🌱 I’m currently documenting some of my cloud projects here.
+- 🌱 I’m currently focused on Azure and documenting some of my cloud projects here.
 - 📫 You can reach me on X.com @iamVinceCloud
 - ⚡ Fun fact: I was in Banking in another life.
 
